@@ -18,7 +18,7 @@ The Fruit Picker Game is an interactive game built using Python and Tkinter, whe
 3. **Viewing Your Collection**: The collected fruits will be displayed in your fruit basket, along with messages about your picks.
 4. **Celebratory Messages**: Collect 5 fruits to receive a special congratulatory message!
 
-## Additional Features (Future Enhancements)
+## Additional Features (Future Enhancements (if you're interested in strengthening basics and problem-solving flexibilities))
 
 - **Timed Challenges**: Introduce time-limited challenges where players must collect as many fruits as possible within a given timeframe.
 - **Score Tracking**: Implement a scoring system to track the player's progress and achievements.
@@ -32,4 +32,4 @@ The Fruit Picker Game is an interactive game built using Python and Tkinter, whe
 To run the Fruit Picker Game, ensure you have Python installed on your machine. You can download the source code from this repository and run the main script:
 
 ```bash
-python fruit_picker_game.py
+python PickFruit.py
